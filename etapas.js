@@ -8,7 +8,7 @@ let etapas = [
                 nome: "Hulk",
                 partido: "AVG",
                 fotos: [
-                {url:"![boneco-hulk](https://user-images.githubusercontent.com/91640492/159368403-6d028f61-c96a-4d28-bdc2-db41589a2724.png)", legenda: "Vereador"}
+                {url:"https://user-images.githubusercontent.com/91640492/159368403-6d028f61-c96a-4d28-bdc2-db41589a2724.png", legenda: "Vereador"}
                 ]
             },
             {
